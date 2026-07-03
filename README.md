@@ -1,14 +1,10 @@
- ██████╗  █████╗ ██████╗ ██╗   ██╗██████╗   █████╗
-██╔════╝ ██╔══██╗██╔══██╗██║   ██║██╔══██╗ ██╔══██╗
-██║  ███╗███████║██████╔╝██║   ██║██║  ██║ ███████║
-██║   ██║██╔══██║██╔══██╗██║   ██║██║  ██║ ██╔══██║
-╚██████╔╝██║  ██║██║  ██║╚██████╔╝██████╔╝ ██║  ██║
- ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝ ╚═════╝  ╚═╝  ╚═╝
+<p align="center">
+  <img src="https://img.shields.io/badge/GARUDA-Intelligence%20v1.0-8A2BE2?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MCIgaGVpZ2h0PSI0MCIgdmlld0JveD0iMCAwIDQwIDQwIj48cG9seWdvbiBwb2ludHM9IjIwLDQgMzYsMjAgMjAsMzYgNCwyMCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIyIi8+PGNpcmNsZSBjeD0iMjAiIGN5PSIyMCIgcj0iNiIgZmlsbD0ibm9uZSIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIyIi8+PC9zdmc+" alt="GARUDA">
+</p>
 
-        GARUDA • MASTER ORCHESTRATOR • v1.0
-      **Author/Creator:** Venkatesh Ammireddy
-
-# GARUDA Intelligence
+<h1 align="center">GARUDA Intelligence</h1>
+<h3 align="center">Multi-Agent UI/UX Design Orchestrator</h3>
+<p align="center"><strong>Author:</strong> Venkatesh Ammireddy</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/version-1.0-blue?style=for-the-badge" alt="Version">
