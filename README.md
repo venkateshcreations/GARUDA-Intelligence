@@ -10,7 +10,15 @@
 
 # GARUDA Intelligence
 
-**Author:** Venkatesh Ammireddy
+<p align="center">
+  <img src="https://img.shields.io/badge/version-1.0-blue?style=for-the-badge" alt="Version">
+  <img src="https://img.shields.io/badge/license-MIT-brightgreen?style=for-the-badge" alt="License">
+  <img src="https://img.shields.io/badge/agents-42-orange?style=for-the-badge" alt="42 Agents">
+  <img src="https://img.shields.io/badge/layers-5-purple?style=for-the-badge" alt="5 Layers">
+  <img src="https://img.shields.io/badge/PRs-welcome-brightgreen?style=for-the-badge" alt="PRs Welcome">
+  <img src="https://img.shields.io/badge/node-%3E%3D16-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node >=16">
+  <img src="https://img.shields.io/badge/built_with-AI-8A2BE2?style=for-the-badge" alt="Built with AI">
+</p>
 
 ---
 
