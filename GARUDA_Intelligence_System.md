@@ -12,7 +12,7 @@
 
 ## Overview
 
-The UI/UX Intelligence System is a multi-agent orchestrating platform that transforms product requirements into polished, user-centered interface designs through a layered pipeline of cognitive reasoning, execution, simulation, evaluation, and memory.
+GARUDA Intelligence is a multi-agent orchestrating platform that transforms product requirements into polished, user-centered interface designs through a layered pipeline of cognitive reasoning, execution, simulation, evaluation, and memory.
 
 ---
 
@@ -50,7 +50,7 @@ The UI/UX Intelligence System is a multi-agent orchestrating platform that trans
 ## Directory Structure
 
 ```
-Venkateshcreations-UI-UX-Intelligence-System/
+garuda-intelligence/
 ├── config.json                    # Central agent registry (42 agents)
 ├── pipeline/
 │   ├── pipeline.json              # Sequential stage definitions with loops
